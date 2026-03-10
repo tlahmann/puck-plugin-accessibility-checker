@@ -1,0 +1,26 @@
+{
+  "name": "puck-plugin-accessibility-checker",
+  "version": "0.0.1",
+  "description": "A plugin for the Puck editor that tests for accessibility issues using axe-core",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tlahmann/puck-plugin-accessibility-checker.git"
+  },
+  "keywords": [
+    "puck",
+    "puck-editor",
+    "plugin",
+    "accesibility",
+    "axe-core"
+  ],
+  "author": "Tobias Lahmann (tobiaslahmann@gmail.com)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/tlahmann/puck-plugin-accessibility-checker/issues"
+  },
+  "homepage": "https://github.com/tlahmann/puck-plugin-accessibility-checker#readme"
+}
