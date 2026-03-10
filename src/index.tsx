@@ -8,5 +8,3 @@ export const accessibilityCheckerPlugin: Plugin = {
   render: AccessibilityChecker,
   icon: <PersonStanding />,
 };
-
-export default accessibilityCheckerPlugin;
