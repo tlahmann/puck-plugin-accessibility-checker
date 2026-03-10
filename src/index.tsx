@@ -1,11 +1,12 @@
-import React from "react";
 import { Plugin } from "@puckeditor/core";
 import { PersonStanding } from "lucide-react";
 import { AccessibilityChecker } from "./components/AccessibilityChecker";
 
-const accessibilityChecker: Plugin = {
+export const accessibilityCheckerPlugin: Plugin = {
   name: "a11y-checker",
   label: "A11y",
   render: AccessibilityChecker,
   icon: <PersonStanding />,
 };
+
+export default accessibilityCheckerPlugin;
