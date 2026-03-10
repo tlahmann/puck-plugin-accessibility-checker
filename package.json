@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/tlahmann/puck-plugin-accessibility-checker/issues"
   },
-  "homepage": "https://github.com/tlahmann/puck-plugin-accessibility-checker#readme"
+  "homepage": "https://github.com/tlahmann/puck-plugin-accessibility-checker#readme",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
 }
